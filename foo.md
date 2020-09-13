@@ -5,3 +5,5 @@ I am not used to using git. I want to use ```git branch```, ```git merge```, ```
 ## my_first_branch
 
 This is my first branch.
+
+merged!:blush:
