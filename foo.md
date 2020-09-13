@@ -7,3 +7,7 @@ I am not used to using git. I want to use ```git branch```, ```git merge```, ```
 This is my first branch.
 
 merged!:blush:
+
+## my_second_branch
+
+I can push other branches to GitHub!
